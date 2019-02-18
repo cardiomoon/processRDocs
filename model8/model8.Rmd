@@ -3,8 +3,8 @@ title: "How to analysis PROCESS macro model 8 with processR App"
 author: "Keon-Woong Moon"
 date: '2019 2 18 '
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 ---
 
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Homepage of processR package
 
-The homepage of `processR` package is https://github.com/cardiomoon/processR. You can see how to analysis this model with R at this homepage.
+The homepage of `processR` package is https://github.com/cardiomoon/processR. You can see teh package vignette http://rpubs.com/cardiomoon/468602
 
 ## Where to start?
 
@@ -83,4 +83,8 @@ You can download the results of analysis as a powerpoint file by press the **dow
 
 ## Get/See the sample file
 
-You can get the sample powerpoint file [model8.pptx](https://github.com/cardiomoon/processR/blob/master/inst/doc/model8.pptx?raw=true) - view with [office web viewer](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cardiomoon/processR/blob/master/inst/doc/model8.pptx?raw=true) 
+You can get the sample powerpoint file [model8.pptx](https://github.com/cardiomoon/processRDocs/blob/master/model8/model8.pptx?raw=true) - view with [office web viewer](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cardiomoon/processRDocs/blob/master/model8/model8.pptx?raw=true). All contents in this powerpoint file is editable. The plots in this file is vector graphic. 
+
+## Get/See this file as MS word
+
+You can get this file in a MS word format [model8.docx](https://github.com/cardiomoon/processRDocs/blob/master/model8/model8.docx?raw=true) - view with [office web viewer](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cardiomoon/processRDocs/blob/master/model8/model8.docx?raw=true) 
